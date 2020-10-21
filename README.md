@@ -38,7 +38,7 @@ If you are an advanced user follow directly the official tutorial:
 * [Create your blockchain with that cryptocurrency](https://www.youtube.com/watch?v=_Ww5IZZB0WY) (French with English Subtitle)
 
 ## Step 1 - Download the Nxt blockchain and create the genesis block
-1. Clone this repository with `git clone https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator`, also feel free to fork this repository!
+1. Clone this repository with `git clone https://github.com/wisley551/Proof-of-Stake-Cryptocurrency-generator`, also feel free to fork this repository!
 2. Go to the cloned folder and install the npm dependencies with `npm install`
 3. Run the Nxt Blockchain with `npm run nxt`
 4. Then open http://localhost:7876/index.html in your favourite browser. Then create an account and save the private keys securely, wait until the full blockchain is synced, this can take a few hours. Copy your nxt address and also its public key.
